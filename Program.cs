@@ -6,7 +6,7 @@ namespace Groupwork
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, Nemo!");
 
             using (var context = new ParkmanContext())
             {
